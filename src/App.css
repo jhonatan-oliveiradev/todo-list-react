@@ -1,0 +1,20 @@
+.App {
+  width: 40%;
+  margin: 2em auto;
+  background-color: #394049;
+  border-radius: 5px;
+  color: aliceblue;
+}
+
+.todo-header {
+  padding: 0.5em;
+  border-bottom: 1px solid #2c3035;
+  text-align: center;
+  box-shadow: 0px 2px 4px -1px rgba(0, 0, 0, 0.2),
+    0px 4px 5px 0px rgba(0, 0, 0, 0.14), 0px 1px 10px 0px rgba(0, 0, 0, 0.12);
+}
+
+.todo-header h1 {
+  margin: 0;
+  font-weight: 600;
+}
