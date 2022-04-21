@@ -6,7 +6,7 @@ Uma lista de tarefas onde recebe dois inputs, um contendo o nome da tarefa e out
 Essa aplicação armazena as tarefas e também permite editar ou excluí-las.
 
 Aplicação feita durante a aula de React.JS do instrutor Matheus Battisti, do canal 
-<a href="https://youtu.be/pOVyVivyfok" target="_blank">Hora de codar" no YouTube.</a>
+<a href="https://youtu.be/pOVyVivyfok" target="_blank">Hora de codar</a>, no YouTube.
 
 # Techs
 - React.JS
